@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WTremaglio
-- 👀 I’m interested in Software Engineering and Video Game Development / Design.
+- 👀 I’m interested in Software Engineering and Video Game Design/Development.
 - 🌱 I’m currently learning Creative Computing at Queen Mary University of London with a concentration in Design.
 - 📫 How to reach me: W.H.Tremaglio@Gmail.com and www.LinkedIn.com/in/WTremaglio/
 
